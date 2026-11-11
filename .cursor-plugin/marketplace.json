@@ -1,0 +1,18 @@
+{
+  "name": "signthis",
+  "owner": {
+    "name": "SignThis",
+    "email": "support@signthis.pro"
+  },
+  "metadata": {
+    "description": "SignThis e-signature for MCP agents",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "signthis",
+      "source": "./",
+      "description": "Send PDFs for e-signature, track signing and remind signers."
+    }
+  ]
+}

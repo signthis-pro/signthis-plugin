@@ -1,0 +1,14 @@
+{
+  "name": "signthis",
+  "displayName": "SignThis",
+  "version": "1.0.0",
+  "description": "Send PDFs for e-signature from Grok Bot, Cursor or any MCP agent: upload a document, add signers, place signature fields, send, track and remind. Connects with one OAuth sign-in.",
+  "author": {
+    "name": "SignThis",
+    "email": "support@signthis.pro"
+  },
+  "homepage": "https://signthis.pro",
+  "license": "MIT",
+  "keywords": ["e-signature", "esign", "pdf", "contracts", "documents", "signing", "mcp", "grok-bot"],
+  "logo": "assets/logo.svg"
+}

@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "signthis": {
+      "url": "https://signthis.pro/api/mcp"
+    }
+  }
+}
