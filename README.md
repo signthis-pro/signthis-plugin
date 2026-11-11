@@ -16,10 +16,12 @@ invitations once you say yes. It can also check who has signed and remind people
 
 ## Requirements
 
-- A SignThis workspace on **Individual Professional or a business plan** (these include API and
-  MCP access).
-- You're an **owner** of that workspace, with **Allow API, webhook and MCP access** turned on in
+- A SignThis account. **Every account can send 3 documents through agents for free**, on any
+  plan. Reading documents and preparing drafts aren't counted.
+- To keep sending through agents after that: **Individual Professional or a business plan**
+  (these include API and MCP access), with **Allow API, webhook and MCP access** turned on in
   Workspace → Security.
+- You're an **owner** of the workspace you connect.
 
 ## Install
 
